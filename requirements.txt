@@ -1,0 +1,8 @@
+mlflow
+sklearn
+pandas
+matplotlib
+seaborn
+numpy
+smogn
+imblearn
